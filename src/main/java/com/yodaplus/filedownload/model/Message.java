@@ -1,7 +1,6 @@
-package com.example.demo.Model;
+package com.yodaplus.filedownload.model;
 
-import java.sql.Time;
-import java.time.LocalTime;
+
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
